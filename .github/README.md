@@ -8,7 +8,7 @@
   <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [P&T STRING GENERATOR](https://t.me/PTstringgen_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -22,7 +22,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="(https://te.legra.ph/file/9d4dccc76211adb16fe2a.jpg)">
+  <img src= "https://te.legra.ph/file/9d4dccc76211adb16fe2a.jpg">
 </p>
 
 <p align="center">
