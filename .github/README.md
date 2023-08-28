@@ -91,6 +91,7 @@ Press `Ctrl+b` and then `d`
 - <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic)</b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
 - <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
+- <b>[ᴅᴀʀᴋʟᴇɢᴇɴᴅ](https://github.com/OnDrugs088)  ғᴏʀ  [sᴏᴜʀᴄᴇ](https://github.com/OnDrugs088/StringgenBot)</b>
 
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/OnDrugs088/StringGenBot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
 
